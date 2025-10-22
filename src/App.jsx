@@ -46,7 +46,7 @@ function App() {
       <div className="max-w-3xl mx-auto">
         <header className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-2">
-            📝 Mi Lista de Tareas
+            Mi Lista de Tareas
           </h1>
           <p className="text-gray-600">Organiza tu día de manera eficiente</p>
         </header>
@@ -66,7 +66,7 @@ function App() {
         </div>
 
         <footer className="text-center mt-6 text-gray-600 text-sm">
-          <p>Taller de Componentes • React + Vite + JSX</p>
+          <p>To Do List - Grupo 1</p>
         </footer>
       </div>
     </div>
